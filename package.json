@@ -1,0 +1,12 @@
+{
+  "name": "projetocep",
+  "version": "1.0.0",
+  "description": "Projeto com objetivo e leitura de uma API via front e leitura da resposta das informações do enedereço.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "dataAtualização":"11/05/2023",
+  "author": "",
+  "license": "ISC"
+}

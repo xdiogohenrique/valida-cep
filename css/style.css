@@ -1,0 +1,87 @@
+#divCep{
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height: 250px;
+    width: 300px;
+    background-color:  #00f;
+    border-style:hidden
+}
+
+main {
+    background-color: #ccc;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+
+    
+}
+
+header{
+    padding-top: 100px;
+}
+header div {
+    color: #000;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    background-color: #ccc;
+}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer {
+    color: #000;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    background-color: #ccc;
+}
+
+#cep{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn{
+margin-top: 10px;
+border-radius: 10px;
+background-color: #ccc;
+}
+
+#logadouro{
+    margin-top: 10px;
+}
+
+#complemento{
+    margin-top: 10px;
+}
+
+#bairro{
+    margin-top: 10px;
+}
+
+#localidade{
+    margin-top: 10px;
+}
+
+#uf{
+    margin-top: 10px;
+}
